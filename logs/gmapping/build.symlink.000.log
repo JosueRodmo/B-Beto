@@ -1,0 +1,6 @@
+Symlinking /home/josue/Desktop/Reto_ws/devel/share/gmapping/cmake/gmappingConfig.cmake
+Symlinking /home/josue/Desktop/Reto_ws/devel/share/gmapping/cmake/gmappingConfig-version.cmake
+Symlinking /home/josue/Desktop/Reto_ws/devel/lib/libslam_gmapping_nodelet.so
+Symlinking /home/josue/Desktop/Reto_ws/devel/lib/pkgconfig/gmapping.pc
+Symlinking /home/josue/Desktop/Reto_ws/devel/lib/gmapping/slam_gmapping
+Symlinking /home/josue/Desktop/Reto_ws/devel/lib/gmapping/slam_gmapping_replay

@@ -1,0 +1,3 @@
+//Ver la batería de la cámara
+
+cat /sys/class/power_supply/max170xx_battery/capacity

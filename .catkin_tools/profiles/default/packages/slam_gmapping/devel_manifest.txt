@@ -1,0 +1,2 @@
+slam_gmapping/slam_gmapping
+/home/josue/Desktop/Reto_ws/devel/.private/slam_gmapping/cmake.lock /home/josue/Desktop/Reto_ws/devel/./cmake.lock
