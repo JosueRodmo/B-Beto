@@ -1,2 +1,2 @@
 # B-Beto
-Robot Diferencial con SLAM para mapeo y navegación reactiva.
+Robot Diferencial con SLAM y navegación reactiva.
